@@ -1,2 +1,3 @@
 # First-exploration
-新世界
+from IPython.core.interactiveShell import InteractiveShe11
+InteractiveShe11.ast_node_interactivity = "all"
